@@ -17,6 +17,9 @@
                                       stud_address varchar2(50),
                                       stud_mob_no number);
     --1.2)alter
+            --1.2.1 add
+            --1.2.2 update
+            --1.2.3 delete
     --1.3)delete
     --1.4)drop
     --1.5)truncate
